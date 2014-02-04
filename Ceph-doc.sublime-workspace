@@ -1,0 +1,1129 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hosts",
+				"hosts"
+			],
+			[
+				"print",
+				"print_alle_zones"
+			],
+			[
+				"host",
+				"hosts_list"
+			],
+			[
+				"zuil_item_",
+				"zuil_item_key"
+			],
+			[
+				"zuil_item",
+				"zuil_item_key"
+			],
+			[
+				"zuil_it",
+				"zuil_item_value_dict"
+			],
+			[
+				"zuil",
+				"zuil_item_value_dict"
+			],
+			[
+				"iem",
+				"item_v_dict"
+			],
+			[
+				"item",
+				"item_v_dict"
+			],
+			[
+				"zone",
+				"zone_v_list"
+			],
+			[
+				"prt",
+				"prntZone"
+			],
+			[
+				"print_",
+				"print_gegevens"
+			],
+			[
+				"a",
+				"aantal"
+			],
+			[
+				"lees",
+				"lees_yaml_hosts"
+			],
+			[
+				"vlan",
+				"vlan_prod"
+			],
+			[
+				"tep_list",
+				"temp_list2"
+			],
+			[
+				"stip",
+				"strip_host_lijst"
+			],
+			[
+				"php5-",
+				"php5-xdebug"
+			],
+			[
+				"p",
+				"prepare_user_conf_export"
+			],
+			[
+				"ee",
+				"ee-test-1"
+			],
+			[
+				"with",
+				"with_items"
+			],
+			[
+				"ra",
+				"rat_2"
+			],
+			[
+				"rat",
+				"rat_1"
+			],
+			[
+				"n",
+				"num_sprouts_left"
+			],
+			[
+				"R",
+				"Rat"
+			],
+			[
+				"nu",
+				"num_sprouts_eaten"
+			],
+			[
+				"g",
+				"get_character"
+			],
+			[
+				"N",
+				"NO_CHANGE"
+			],
+			[
+				"e",
+				"num_sprouts_eaten"
+			],
+			[
+				"__",
+				"__str__"
+			],
+			[
+				"vHost",
+				"vhost"
+			],
+			[
+				"passw",
+				"passwdroot"
+			],
+			[
+				"forward",
+				"forward-proxy"
+			],
+			[
+				"bash",
+				"bashrc"
+			],
+			[
+				"pear",
+				"pearrc"
+			],
+			[
+				"geb",
+				"gebruikersnaam"
+			],
+			[
+				"gebruike",
+				"gebruikersnaam"
+			],
+			[
+				"line",
+				"lineinfile"
+			],
+			[
+				"skel",
+				"skel-bestanden"
+			],
+			[
+				"f",
+				"files"
+			],
+			[
+				"vioe-be",
+				"vioe-bescherming-pr-1"
+			],
+			[
+				"Con",
+				"CONFIRM"
+			],
+			[
+				"Conf",
+				"config-set"
+			],
+			[
+				"foun",
+				"found4"
+			],
+			[
+				"found",
+				"found2"
+			],
+			[
+				"ssh",
+				"ssh-key"
+			],
+			[
+				"add",
+				"add_key_to_current_keys"
+			],
+			[
+				"key",
+				"key_text"
+			],
+			[
+				"re",
+				"read_current_keys"
+			],
+			[
+				"Run",
+				"RuntimeWarning"
+			],
+			[
+				"colum",
+				"column_index"
+			],
+			[
+				"colu",
+				"column_index"
+			],
+			[
+				"row",
+				"row_index"
+			],
+			[
+				"col",
+				"column_index"
+			],
+			[
+				"ro",
+				"row_index"
+			],
+			[
+				"board",
+				"board_file"
+			],
+			[
+				"str",
+				"str_list"
+			],
+			[
+				"boar",
+				"board_file"
+			],
+			[
+				"pl",
+				"player_score"
+			],
+			[
+				"lin",
+				"lines_s1"
+			],
+			[
+				"fab",
+				"fabric"
+			],
+			[
+				"ge",
+				"geoportaal-dev"
+			],
+			[
+				"gepo",
+				"geoportaal-test"
+			],
+			[
+				"get_c",
+				"get_complement"
+			],
+			[
+				"nuc",
+				"nucleo"
+			],
+			[
+				"C",
+				"CCGGAT"
+			],
+			[
+				"get_com",
+				"get_compementary_sequence"
+			],
+			[
+				"dna",
+				"dna2"
+			],
+			[
+				"insert",
+				"insert_sequence"
+			],
+			[
+				"is_",
+				"is_valid_sequence"
+			],
+			[
+				"is",
+				"is_valid_sequence"
+			],
+			[
+				"d",
+				"dna2"
+			],
+			[
+				"dn",
+				"dna2"
+			],
+			[
+				"time",
+				"time"
+			],
+			[
+				"get_s",
+				"get_seconds"
+			],
+			[
+				"m",
+				"minutes"
+			],
+			[
+				"secon",
+				"seconds"
+			],
+			[
+				"to",
+				"to_24_hour_clock"
+			],
+			[
+				"get",
+				"get_minutes"
+			],
+			[
+				"tim",
+				"time_1"
+			],
+			[
+				"sid",
+				"side2"
+			],
+			[
+				"side",
+				"side1"
+			],
+			[
+				"si",
+				"side3"
+			],
+			[
+				"s",
+				"side1"
+			],
+			[
+				"num",
+				"num1"
+			],
+			[
+				"v",
+				"vHost	VirtualHost"
+			],
+			[
+				"i",
+				"imagpart"
+			],
+			[
+				"ke",
+				"keyw"
+			],
+			[
+				"arg",
+				"argum"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"bib",
+				"bibhost"
+			],
+			[
+				"be",
+				"bekijken"
+			],
+			[
+				"r",
+				"run_mysql_backup"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/roles/users/defaults/main.yml",
+			"settings":
+			{
+				"buffer_size": 497,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/toevoegen_gebruiker.yaml",
+			"settings":
+			{
+				"buffer_size": 701,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/roles/users/tasks/main.yml",
+			"settings":
+			{
+				"buffer_size": 738,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "127.0.0.1	localhost\n192.168.71.101	42on1\n192.168.71.102	42on2\n192.168.71.103	42on3\n192.168.71.104	42on4\n192.168.71.105	42on5\n192.168.71.106	42on6\n192.168.71.107	42on7\n192.168.71.108	42on8",
+			"settings":
+			{
+				"buffer_size": 187,
+				"line_ending": "Unix",
+				"name": "127.0.0.1	localhost"
+			}
+		},
+		{
+			"file": "/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/group_vars/inventaris-dev",
+			"settings":
+			{
+				"buffer_size": 712,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/group_vars/all",
+			"settings":
+			{
+				"buffer_size": 464,
+				"line_ending": "Unix",
+				"name": "all"
+			}
+		}
+	],
+	"build_system": "Packages/User/sphinx.sublime-build",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"set sy ji",
+				"Set Syntax: Jinja Templates"
+			],
+			[
+				"syn ya",
+				"Set Syntax: YAML"
+			],
+			[
+				"syn y",
+				"Set Syntax: YAML"
+			],
+			[
+				"synt ji	",
+				"Set Syntax: Jinja Templates"
+			],
+			[
+				"synt y",
+				"Set Syntax: YAML"
+			],
+			[
+				"syn ji",
+				"Set Syntax: Jinja Templates"
+			],
+			[
+				"synt ji",
+				"Set Syntax: Jinja Templates"
+			],
+			[
+				"jin",
+				"Set Syntax: Jinja Templates"
+			],
+			[
+				"y",
+				"Set Syntax: YAML"
+			],
+			[
+				"in",
+				"Set Syntax: INI"
+			],
+			[
+				"ya",
+				"Set Syntax: YAML"
+			],
+			[
+				"yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"pac	",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"syn s",
+				"Set Syntax: SQL"
+			],
+			[
+				"synt py",
+				"Set Syntax: Python"
+			],
+			[
+				"syn	",
+				"Set Syntax: PHP"
+			],
+			[
+				"syn php",
+				"Set Syntax: PHP"
+			],
+			[
+				"syn p",
+				"Set Syntax: PHP"
+			],
+			[
+				"synt p",
+				"Set Syntax: PHP"
+			],
+			[
+				"synt apa",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"pack r",
+				"Package Control: Remove Package"
+			],
+			[
+				"apach",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"syn apa",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instap	",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syntax ja",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kuylensa/Git/Ceph-doc/source/index.rst",
+		"/Users/kuylensa/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/kuylensa/Library/Application Support/Sublime Text 3/Packages/User/sphinx.sublime-build",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/hostprov.py",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/auth.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/besluiten.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/besluiten_fab_test.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/depot.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/ee.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/es.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/inventaris.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/toevoegen_gebruiker.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/monitoring/tasks/ping.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/monitoring/tasks/touch test.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/monitoring/tasks/verwijder_beaver.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/tasks/install_packages_pear.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/tasks/install_packages_memcached.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/tasks/ssh_toegang.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/tasks/add_users.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/tasks/config_apache.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/tasks/install_packages_basis.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/tasks/install_packages_es.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/tasks/install_packages_mysql.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/tasks/install_packages_php.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/tasks/install_packages_postgres.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/tasks/prepare_user_conf_basis.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/tasks/install_packages_svn.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/restauratieambacht.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/tasks/controle_ansible.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/handlers/restart_apache.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/handlers/restart_memcached.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/tasks/add_groups.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/tasks/fabric_deploy.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/tasks/prepare_user_conf_export.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/oe_test.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/draft_van_def_print_gegevens",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/fabric/fabric_besluiten",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/oe_test",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/hostprov.py",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/oe_hosts",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/dev",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/test",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/pr",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/group_vars/depot-pr",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/ee_php.txt",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/tasks/prepare_user_conf_export_proxy.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/tasks/prepare_user_conf_export_pear.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/ee-test",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/tasks/install_packages.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/tasks/01_install_packages.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/group_vars/es-test",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/lokaal-vm",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/monitoring/templates/gebruiker.j2",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/tasks/prepare_user_configuration.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/vars/sys_gebruikers_extended.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/monitoring.yaml",
+		"/Users/kuylensa/Dropbox/Coursera/LTP_2_Quality_code/Assignment_1/a1.py",
+		"/Users/kuylensa/Dropbox/Coursera/LTP_2_Quality_code/Assignment_2/rat_race.py",
+		"/Users/kuylensa/Dropbox/Coursera/LTP_2_Quality_code/Assignment_2/a2.py",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/templates/vHost.j2",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/monitoring/tasks/pang.yaml",
+		"/Users/kuylensa/Desktop/mysql.server.sh",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/vars/gebruikers_extended.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/monitoring/vars/gebruikers_extended.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/monitoring/tasks/add_users.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/tasks/add_user_test.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/tasks/ansible.sublime-project",
+		"/Users/kuylensa/Transfer_MMIS2VM/svn_milieuinfo/ubuntuserver/1_prepare.sh",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/playbook_starter_example.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/tasks/ssh_toegang_extended.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/ssh.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/setup.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/callback_plugins/osx_say.py",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/group_vars/auth-test",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/group_vars/auth-pr",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/group_vars/besluiten-pr",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/monitoring/tasks/read_only_check.yaml",
+		"/Users/kuylensa/Desktop/Schermafbeelding 2013-02-28 om 10.32.32.png",
+		"/Users/kuylensa/Desktop/Schermafbeelding 2013-02-28 om 11.11.06.png",
+		"/Users/kuylensa/Desktop/Schermafbeelding 2012-12-14 om 13.55.05.png",
+		"/Users/kuylensa/Desktop/Installatie Joomla 3 - DB-instellingen.png",
+		"/Users/kuylensa/Desktop/img008.jpg",
+		"/Users/kuylensa/Desktop/2157750.png",
+		"/Users/kuylensa/Desktop/Schermafbeelding 2012-12-18 om 15.28.41.png",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/templates/bashrc_proxy.j2",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/templates/bashrc.j2",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/vars/gebruikers.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/playbooks/vars/gebruikers.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/playbooks/playbook_starter_example.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/playbooks/ssh_toegang.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/playbooks/install_packages.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/pedantically_commented_playbook.yml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/playbooks/files/vermeyma_id_rsa.pub",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/playbooks/files/aOE_rsa.pub",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/playbooks/files/kuylensa_id_rsa.pub",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/group_vars/ee-dev",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/group_vars/ee-pr",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/group_vars/ee-test",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/group_vars/bescherming-test",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/group_vars/geoportaal-test",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/group_vars/geoportaal-pr",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/group_vars/geoportaal-dev",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/group_vars/bescherming-pr",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/playbooks/ping.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/group_vars/trac-pr",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/group_vars/drupal-test",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/group_vars/drupal-pr",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/ontwikkel",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/group_vars/inventaris-dev",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/group_vars/inventaris-test",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/group_vars/inventaris-pr",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/group_vars/rest-pr",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/group_vars/rest-pr.yaml",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/playbooks/templates/hostvars.j2",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/ansible.cfg",
+		"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/basic/ansible.cfg",
+		"/Users/kuylensa/Git/ansible/examples/playbooks/intermediate_example.yml",
+		"/Users/kuylensa/Git/ansible/examples/playbooks/intro_example.yml",
+		"/Users/kuylensa/Git/ansible/examples/playbooks/ssh_key.yaml",
+		"/Users/kuylensa/Git/ansible/test/ansible_hosts",
+		"/Users/kuylensa/Git/ansible/library/authorized_key",
+		"/Users/kuylensa/Git/ansible/examples/DOCUMENTATION.yaml",
+		"/Users/kuylensa/Git/ansible/examples/scripts/yaml_to_ini.py",
+		"/Users/kuylensa/Git/ansible/examples/scripts/uptime.py",
+		"/Users/kuylensa/Git/ansible/examples/playbooks/prompts.yml",
+		"/Users/kuylensa/Git/ansible/examples/playbooks/tasks/base.yml",
+		"/Users/kuylensa/Git/ansible/examples/playbooks/tags.yml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"user: root",
+			"when:",
+			"when: {{",
+			"when: \"{{",
+			"state",
+			"key='$FILE(files/{{ item.gebruikersnaam }}_id_rsa.pub)'",
+			"$FILE",
+			"$gebruikers",
+			"$item",
+			"via \"{{ host_arg }}\"",
+			"via \"{{ host_arg }}",
+			"---",
+			"{{ host_arg }}=",
+			"{{ host",
+			"$",
+			"$host_arg",
+			"$",
+			"${",
+			"when: ",
+			"mgt",
+			"zones",
+			"${item}",
+			"with_handler",
+			"rat_paul",
+			"status",
+			"$",
+			"{{",
+			"bash",
+			"voor",
+			"host_arg",
+			"arg_groep",
+			"gebruikersnaam",
+			"kuylensa",
+			"with_users",
+			"expressionengine",
+			"www-mgt.onroerenderfgoed.be",
+			"/data/",
+			"https://www.onro",
+			"/data/",
+			"CHARSET=latin1",
+			"-on",
+			"copy_and_replace",
+			"prod",
+			"precise",
+			"be.archive.",
+			"e.archive.",
+			"de.",
+			"de",
+			"proxy",
+			"name",
+			"self",
+			"Alias",
+			"Alias /static /var/sites/beschermingen/static\n\nProxyPass /admin !\nProxyPass /static !\nProxyPass / ajp://0.0.0.0:8009/",
+			"beschermingen",
+			"oeps",
+			"inventaris",
+			"[Start vim]",
+			"[End]",
+			"[Start console]",
+			"Applicatie-server",
+			"##[End Vim]",
+			"##[Vim]",
+			"##[End Terminal]",
+			"##[Terminal]",
+			"m145553"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"remote_user: root",
+			"key='{{ lookup('file', {{ item.gebruikersnaam }}_id_rsa.pub) }}'",
+			"{{ gebruikers }}",
+			"{{ item }}",
+			"via \"$host_arg\"",
+			"$host_arg=",
+			"{{ host_arg }}",
+			"\".$_SERVER['HTTP_HOST'].\"",
+			"/var/",
+			"http://www-mgt.onro",
+			"/var/",
+			"CHARSET=utf8",
+			"{panel:title=Virtual Machine: /etc/apache2/sites-available/bib|borderStyle=solid|bgColor=Indigo|titleBGColor=MediumOrchid}{color:White}{noformat:nopanel=true}",
+			"{noformat}{color}{panel}",
+			"{panel:title=mysql-leopold-server: Terminal|borderStyle=solid|borderColor=Black|bgColor=DimGrey|titleBGColor=Silver}{color:GreenYellow}{noformat:nopanel=true}",
+			"Virtual Machine",
+			"{noformat}{color}{panel}",
+			"{panel:title=Applicatie-server: .amanda-client.conf|borderStyle=solid|bgColor=Indigo|titleBGColor=MediumOrchid}{color:White}{noformat:nopanel=true}",
+			"{noformat}{color}{panel}",
+			"{panel:title=Applicatie-server: Terminal|borderStyle=solid|borderColor=Black|bgColor=DimGrey|titleBGColor=Silver}{color:GreenYellow}{noformat:nopanel=true}",
+			"M145553"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/roles/users/defaults/main.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 497,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								496,
+								467
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/toevoegen_gebruiker.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 701,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								701,
+								701
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/roles/users/tasks/main.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 738,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								470,
+								470
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								187,
+								187
+							]
+						],
+						"settings":
+						{
+							"auto_name": "127.0.0.1	localhost",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/group_vars/inventaris-dev",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 712,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								672,
+								672
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/group_vars/all",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								419,
+								419
+							],
+							[
+								439,
+								439
+							],
+							[
+								459,
+								459
+							]
+						],
+						"settings":
+						{
+							"auto_name": "all",
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Ceph-doc.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/kuylensa/Git/OnroerendErfgoed/scripts/servers/ansible/installatie/tasks/ansible.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
