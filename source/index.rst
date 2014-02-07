@@ -61,11 +61,11 @@ Opstelling VM's
 Configuratie VM's
 -----------------
 42on1 en 42on2:
-* 25GB disk met Basic Ubuntu 12.04.03 LTS geïnstalleerd
+ * 25GB disk met Basic Ubuntu 12.04.03 LTS geïnstalleerd
 
 42on3 - 42on8:
-* 25GB disk met Basic Ubuntu 12.04.03 LTS geïnstalleerd
-* 5x 5GB disken die niet geformateerd zijn (worden gebruikt voor OSD's)
+ * 25GB disk met Basic Ubuntu 12.04.03 LTS geïnstalleerd
+ * 5x 5GB disken die niet geformateerd zijn (worden gebruikt voor OSD's)
 
 Installatie
 ===========
